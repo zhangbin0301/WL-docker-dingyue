@@ -4,7 +4,7 @@
 
 daxia2023/doc:sub2    
 
-daxia2023/doc:sub3     在sub2基础上增加支持reality协议
+daxia2023/doc:sub3   用于reality协议
 
 Port 7860    默认端口8080 
 
