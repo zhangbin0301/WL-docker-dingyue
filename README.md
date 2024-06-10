@@ -2,7 +2,11 @@
 
 //订阅功能
 
-daxia2023/doc:sub2      Port 7860    默认8080 
+daxia2023/doc:sub2    
+
+daxia2023/doc:sub3     在sub2基础上增加支持reality协议
+
+Port 7860    默认端口8080 
 
 PSWD=8ge8-88888888
 
